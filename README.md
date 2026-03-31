@@ -9,16 +9,11 @@ A **Stellar Testnet dApp** for checking XLM balances, looking up any account, fu
 ## 📸 Screenshots
 
 ### Wallet Connected State
-![Wallet Connected](./screenshots/wallet-connected.png)
+![Wallet Connected](./screenshots/balance-display.png)
 
 ### Balance Displayed
 ![Balance Display](./screenshots/balance-display.png)
 
-### Successful Testnet Transaction
-![Transaction Success](./screenshots/transaction-success.png)
-
-### Transaction Result Shown to User
-![Transaction Result](./screenshots/transaction-result.png)
 
 ---
 
@@ -60,7 +55,7 @@ Before running this project, you need:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/stellar-balance-checker.git
+git clone https://github.com/AyushPal0/stellar-balance-checker.git
 cd stellar-balance-checker
 ```
 
