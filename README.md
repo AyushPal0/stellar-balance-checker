@@ -12,7 +12,7 @@ A **Stellar Testnet dApp** for checking XLM balances, looking up any account, fu
 ![Wallet Connected](./screenshots/balance-display.png)
 
 ### Balance Displayed
-![Balance Display](./screenshots/Screenshot 2026-03-31 231005.png)
+![Balance Display](./screenshots/Screenshot%202026-03-31%20231005.png)
 
 
 ---
