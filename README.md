@@ -9,10 +9,10 @@ A **Stellar Testnet dApp** for checking XLM balances, looking up any account, fu
 ## 📸 Screenshots
 
 ### Wallet Connected State
-![Wallet Connected](./screenshots/balance-display.png)
+![Wallet Connected](./screenshots/balance.png)
 
 ### Balance Displayed
-![Balance Display](./screenshots/Screenshot%202026-03-31%20231005.png)
+![Balance Display](./screenshots/balance.png)
 
 
 ---
